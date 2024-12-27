@@ -14,6 +14,10 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
+### `cd server, npm install or yarn install, nodemon index.js for backend`
+### `create booking-software database and change server/config/config.json file to connect your mysql `
+
+
 ### `npm test`
 
 Launches the test runner in the interactive watch mode.\
